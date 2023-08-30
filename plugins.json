@@ -477,5 +477,19 @@
           "url": "https://github.com/spinnaker-plugin-examples/nomadPlugin/releases/download/v0.0.1/nomadPlugin-v0.0.1.zip"
         }
       ]
+    },
+    {
+      "id": "Armory.K8sCustomResourceStatus",
+      "description": "K8sCustomResourceStatus from nemesis fork",
+      "provider": "",
+      "releases": [
+        {
+          "version": "0.0.1",
+          "date": "2023-08-30T23:38:25.894093Z",
+          "requires": "clouddriver>=0.0.0",
+          "sha512sum": "d1f1de313b8b1cd4752ef9194d36dcb5adaad68e7827bf9832fd0595ce11e861066e72a2da42d1f4a14a92bd9adfb361ad0351a4fdaaf823d92fb1ec7a02877d",
+          "url": "https://github.com/nemesisOsorio/examplePluginRepository/releases/download/0.0.1/k8s-custom-resource-status-v0.0.1.zip"
+        }
+      ]
     }
-  ]
+]
