@@ -503,6 +503,14 @@
                 "requires": "clouddriver>=0.0.0,front50>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
                 "sha512sum": "362d63072ec7518c5b3555b959d7a36453e6902fdd8aca01dd190f345338067666a7653c3d023c71c4e47563ef00f41e66b13e190d32413fff094462481fe874",
                 "url": "https://github.com/nemesisOsorio/examplePluginRepository/releases/download/0.0.1/policy-engine-0.0.1.zip"
+            },
+            {
+                "version": "0.0.2",
+                "date": "2023-09-29T00:04:24.908898Z",
+                "requires": "clouddriver>=0.0.0,front50>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
+                "sha512sum": "864d908a6a34189bf8e4cb9e24bab4c4b7223895eed0ee19b266741a5dc29f997246512c2c71a204b064cec3b9eabeeeeb3fe51da08eaff30e672a7c7e7bebdd",
+                "preferred": true,
+                "url": "https://github.com/nemesisOsorio/examplePluginRepository/releases/download/0.0.1/policy-engine-0.0.2.zip"
             }
         ]
     }
