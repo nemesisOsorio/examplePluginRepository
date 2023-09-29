@@ -501,7 +501,7 @@
                 "version": "0.0.1",
                 "date": "2023-09-28T23:07:26.666228Z",
                 "requires": "clouddriver>=0.0.0,front50>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
-                "sha512sum": "9f33cfe3a72fc8dd7366d591c3cabd616133f21b91dda94112079d9c5880aa5e9c7f4bb931b353ae725207013893cafe12851b4070cf425f785d82d443e9ae2d",
+                "sha512sum": "362d63072ec7518c5b3555b959d7a36453e6902fdd8aca01dd190f345338067666a7653c3d023c71c4e47563ef00f41e66b13e190d32413fff094462481fe874",
                 "url": "https://github.com/nemesisOsorio/examplePluginRepository/releases/download/0.0.1/policy-engine-0.0.1.zip"
             }
         ]
